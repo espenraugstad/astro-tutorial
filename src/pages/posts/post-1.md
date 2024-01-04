@@ -9,10 +9,14 @@ image:
     alt: 'The full Astro logo.'
 tags: ["astro", "blogging", "learning in public"]
 ---
-Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
+Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website. This is so cool :)
+
+## Testing math in Markdown
+Rendering math in posts like this can be done with $\KaTeX$. Instructions can be found [here](https://ileumas.com/writing/2022/03/astro-math-katex/), and the result looks like this: $\sqrt{3x-1}+(1+x)^2$.
+
+More information about $\KaTeX$ can be found at https://katex.org/.
 
 ## What I've accomplished
-
 1. **Installing Astro**: First, I created a new Astro project and set up my online accounts.
 
 2. **Making Pages**: I then learned how to make pages by creating new `.astro` files and placing them in the `src/pages/` folder.
